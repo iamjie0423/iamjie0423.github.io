@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Iamjie0423 Blog
+title: Iamjie0423
 subtitle: ''
 description: ''
 keywords:
@@ -103,7 +103,6 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repo: https://github.com/iamjie0423/iamjie0423.github.io.git
-  branch: master 
-
+  branch: master
