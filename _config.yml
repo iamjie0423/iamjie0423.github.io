@@ -105,4 +105,4 @@ theme: cactus
 deploy:
   type: git
   repo: https://github.com/iamjie0423/iamjie0423.github.io.git
-  branch: main
+  branch: my
